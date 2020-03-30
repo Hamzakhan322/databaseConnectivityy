@@ -1,0 +1,2 @@
+rootProject.name='databaseConnectivity'
+include ':app'
